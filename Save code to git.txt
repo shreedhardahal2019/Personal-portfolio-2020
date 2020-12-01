@@ -1,0 +1,40 @@
+To push files in github
+
+1. ls
+2. cd
+3. git init
+4. git remote add origin <gitlink>
+5. git remote -v
+6. git add .
+7. git commit -m "First commit"
+8. git push origin master
+
+9. git help
+
+
+YOUTUBE link - ((Add new repository))
+
+https://www.youtube.com/watch?v=2vASHVT0qKc
+
+((Add project or modification to exesting repo))
+
+https://www.youtube.com/watch?v=ruieT3Nkg2M
+
+((Run git program to local computer))
+
+https://www.youtube.com/watch?v=O72FWNeO-xY&list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD&index=7
+
+Python Path Link --
+
+C:\Users\Shekhar\AppData\Local\Programs\Python\Python38
+
+
+Drive link - 
+https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fdrive%2Fmobile%2Ffolders%2F0ByWO0aO1eI_MQkh1NTF1MXhYaEk%3Ffbclid%3DIwAR3TIqKGroeQuRf9b6dQn6kVbAdguUGu9NsTtkBLm1dA0cJ9WWcJEANrSrI&h=AT04FPPHvGQnHJg6gWcqKpCAhlaSKaj5bLmzSZUy1yq0wWWxFJqY0xbR82wTXsaxDFFatEblN7VoRF90dvqXeDkup6CRKDG119c_hTqR1nTzOwjR__0hoE7Aqh2pVo3OU-AQ
+
+Building E-commerce Website Django ---
+
+https://www.youtube.com/watch?v=YZvRrldjf1Y&fbclid=IwAR1jQnTlk-maOo44XwT1mhrUXZtgy7NpQSFbRmKihBR9e-tY7qGFiMMCl5w
+
+Building website fast:--
+https://www.youtube.com/watch?v=PqeAvFf_HDI
